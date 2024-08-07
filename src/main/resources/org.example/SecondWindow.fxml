@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns:fx="http://javafx.com/fxml" spacing="20" alignment="CENTER">
+    <Label text="welcome to the second window!" />
+    <Button text="back to main window" fx:id="backButton" />
+</VBox>
